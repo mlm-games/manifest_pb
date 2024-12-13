@@ -12,7 +12,7 @@
             review="https://review.lineageos.org" />
     
     <remote name="MyForkForOldVendorUtils"
-            fetch="https://github.com/mlm-games"
+            fetch="https://github.com/mlm-games" />
 
     <!-- TWRP lives in omnirom android-9.0 (not AOSP!) -->
     <project path="bootable/recovery" name="android_bootable_recovery" remote="PitchBlackRecoveryProject" revision="android-9.0"/>
